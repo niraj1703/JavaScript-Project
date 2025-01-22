@@ -5,12 +5,16 @@
 }
 
 body {
+  
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
     min-height: 100vh;
-    background: #ffffff;
-    flex-direction: column;
+
+
+
 }
 
 .main {
@@ -27,14 +31,28 @@ body {
     transform: scale(1.05);
 }
 
-.gfg {
-    display: flex;
+.PRICETEXT {
+    /* display: flex;
     align-items: center;
     justify-content: center;
     font-size: 24px;
     font-weight: 600;
-    color: #01940b;
+    color: #01940b; */
+   
+    place-items: center;
+    width: 60%;
+    margin: auto;
+    background: #fff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
 }
+
+
+ h2,p {
+    color: #485048;
+  }
+
 
 .custom-wrapper {
     margin: 0;
@@ -46,7 +64,7 @@ body {
 
 .header h2 {
     font-size: 30px;
-    color: #01940b;
+    color: #888878;
     display: flex;
     justify-content: center;
     padding: 20px;
@@ -66,6 +84,7 @@ body {
     margin-right: 10px;
     margin-top: 6px;
     font-size: 17px;
+    font-weight: bold;
 }
 
 .price-field input {
@@ -109,7 +128,7 @@ input::-webkit-inner-spin-button {
     right: 15%;
     position: absolute;
     border-radius: 5px;
-    background: #01940b;
+    background: #84b3b9;
 }
 
 .range-input {
