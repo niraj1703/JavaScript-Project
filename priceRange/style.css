@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-color: #db0606;
     min-height: 100vh;
 
 
@@ -18,12 +18,12 @@ body {
 }
 
 .main {
-    background-color: #fff;
+    background-color:rgba(0, 0, 0, 0.1%);
+    
     border-radius: 15px;
-    box-shadow: 0 0 20px
-        rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px 20px rgb(0 0 0 );
     padding: 20px;
-    transition: transform 0.2s;
+    transition: transform 0.1s;
     width: 600px;
 }
 
