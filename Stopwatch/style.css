@@ -4,7 +4,7 @@ body {
     font-family: verdana;
 }
  .theme{
-    display: flex ;
+    display: inline-flex ;
         flex-direction: column;
         justify-content: center;
         align-items: center;

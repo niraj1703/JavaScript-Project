@@ -49,9 +49,14 @@ body {
 }
 
 
- h2,p {
-    color: #485048;
-  }
+p:first-line, h2 {
+    font-size: 125%; /* Increase size of the first letter */
+    color: #ff6600; /* Set the first letter's color to orange */
+    font-weight: bold; /* Make the first letter bold */
+  } 
+
+
+
 
 
 .custom-wrapper {

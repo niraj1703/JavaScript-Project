@@ -1,6 +1,6 @@
 //  Script.js
 const rangevalue = 
-    document.querySelector(".slider-container .price-slider");
+    document.querySelector(".price-slider");
 const rangeInputvalue = 
     document.querySelectorAll(".range-input input");
 

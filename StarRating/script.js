@@ -7,7 +7,7 @@ let output =
 	document.getElementById("output");
 
 // Funtion to update rating
-function gfg(n) {
+function rating(n) {
 	remove();
 	for (let i = 0; i < n; i++) {
 		if (n == 1) cls = "one";
