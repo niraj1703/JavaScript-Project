@@ -1,58 +1,42 @@
 export const links = [
     {
         name: "Twitter",
-        link: 
-"https://twitter.com/geeksforgeeks",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "https://twitter.com",
+        image: "http://googleusercontent.com/image_generation_content/1",
     },
     {
         name: "Linkedin",
-        link: 
-"https://www.linkedin.com/company/geeksforgeeks/",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "https://www.linkedin.com",
+        image: "http://googleusercontent.com/image_generation_content/1",
     },
     {
         name: "Instagram",
-        link: 
-"https://www.instagram.com/geeks_for_geeks/?hl=en",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "https://www.instagram.com",
+        image: "http://googleusercontent.com/image_generation_content/1"
     },
     {
         name: "E-mail",
-        link: 
-"mailto:feedback@geeksforgeeks.org",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "mailto:feedback@geeksforgeeks.org",
+        image: "http://googleusercontent.com/image_generation_content/1",
     },
     {
         name: "Telegram",
-        link: 
-"https://t.me/geeksforgeeks_official",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "https://t.me",
+        image: "http://googleusercontent.com/image_generation_content/1",
     },
     {
         name: "YouTube",
-        link: 
-"https://www.youtube.com/@GeeksforGeeksVideos/featured",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "https://www.youtube.com",
+        image: "http://googleusercontent.com/image_generation_content/1",
     },
     {
         name: "Discord",
-        link: 
-"https://discord.com/invite/HvJvpjz27z",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "https://discord.com",
+        image: "http://googleusercontent.com/image_generation_content/1",
     },
     {
         name: "Facebook",
-        link: 
-"https://www.facebook.com/geeksforgeeks.org/",
-        image: 
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+        link: "https://www.facebook.com",
+        image: "http://googleusercontent.com/image_generation_content/1",
     },
 ];
