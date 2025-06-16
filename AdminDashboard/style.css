@@ -42,7 +42,7 @@ header {
 .logo {
   font-size: 27px;
   font-weight: 600;
-  color: rgb(47, 141, 70);
+  color: rgb(247, 235, 12);
 }
 
 .icn {
@@ -134,7 +134,7 @@ header {
 
 .main::-webkit-scrollbar-thumb {
   background-image: 
-        linear-gradient(to bottom, rgb(0, 0, 85), rgb(0, 0, 50));
+        linear-gradient(to bottom, rgb(23, 23, 24), rgb(0, 251, 255));
 }
 .main::-webkit-scrollbar {
   width: 5px;
@@ -204,20 +204,20 @@ header {
 }
 
 .option1 {
-  border-left: 5px solid #010058af;
+  border-left: 5px solid #ff44e6af;
   background-color: var(--Border-color);
   color: white;
   cursor: pointer;
 }
 .option1:hover {
-  border-left: 5px solid #010058af;
+  border-left: 5px solid #ff826baf;
   background-color: var(--Border-color);
 }
 .box {
   height: 130px;
   width: 230px;
   border-radius: 20px;
-  box-shadow: 3px 3px 10px rgba(0, 30, 87, 0.751);
+  box-shadow: 3px 3px 10px rgba(165, 165, 165, 0.751);
   padding: 20px;
   display: flex;
   align-items: center;
@@ -275,20 +275,20 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 20px 20px 10px 20px;
-  border-bottom: 2px solid rgba(0, 20, 151, 0.59);
+  border-bottom: 2px solid rgba(255, 242, 0, 0.59);
 }
 
 .recent-Articles {
   font-size: 30px;
   font-weight: 600;
-  color: #5500cb;
+  color: #b700ff;
 }
 
 .view {
   height: 35px;
   width: 90px;
   border-radius: 8px;
-  background-color: #5500cb;
+  background-color: #ff6eca;
   color: white;
   font-size: 15px;
   border: none;
@@ -329,7 +329,7 @@ header {
 .label-tag {
   width: 100px;
   text-align: center;
-  background-color: rgb(0, 177, 0);
+  background-color: rgb(0, 255, 183);
   color: white;
   border-radius: 4px;
 }

@@ -56,14 +56,14 @@ body {
 }
 
 .heading-name {
-    color: rgb(10, 83, 10);
+    color: rgb(255, 0, 204);
     animation: namegfg 2s ease-in-out both;
 }
 
 #pid {
     font-weight: 600;
     line-height: 50px;
-    color: #0f4983;
+    color: #ff0000;
 }
 
 /* For Animation */

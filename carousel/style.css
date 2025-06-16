@@ -9,16 +9,17 @@ body {
 }
 
 .carousel {
+    margin-top: 55px;
     position: relative;
-    width: 270px;
-    height: 160px;
+    width: 800px;
+    height: 600px;
     overflow: hidden;
     background-color: #cdcdcd;
 }
 
 .carousel-item .slide-image {
-    width: 270px;
-    height: 160px;
+    width: 800px;
+    height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -46,7 +47,7 @@ body {
 }
 
 .green {
-    background-color: green;
+    background-color: rgb(128, 0, 115);
 }
 
 .yellow {

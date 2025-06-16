@@ -33,14 +33,14 @@ form input, form select, form button {
 }
 
 form button {
-    background-color: #28a745;
+    background-color: #608d6b10;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #218838;
+    background-color: #00fff78a;
 }
 
 .expense-table table {

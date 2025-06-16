@@ -46,7 +46,7 @@ nav ul li a {
 }
 
 nav ul li:hover {
-    background-color: green;
+    background-color: rgba(138, 47, 61, 0);
 }
 
 nav ul li a:hover {
@@ -80,7 +80,7 @@ nav .sideMenuButton {
     position: fixed;
     top: 0;
     right: 0%;
-    background-color: green;
+    background-color: rgb(25, 26, 23);
     overflow-x: hidden;
     transition: 0.3s ease-in;
     padding-top: 60px;
@@ -100,7 +100,7 @@ nav .sideMenuButton {
 .sideNavigationBar a button {
     padding: 10px 20px;
     border-radius: 10px;
-    color: green;
+    color: rgb(93, 76, 135);
     font-size: 16px;
     border-style: none;
     font-weight: 700;
@@ -132,7 +132,7 @@ nav .sideMenuButton {
 .side1 h1 {
     font-size: 60px;
     margin-bottom: 10px;
-    color: green;
+    color: rgb(222, 141, 66);
 }
 
 .side1 button {
@@ -269,7 +269,7 @@ section .topic a {
 }
 
 .button button:hover {
-    background-color: #8cc099;
+    background-color: hsla(70, 41%, 45%, 0.303);
 }
 
 button {
@@ -280,7 +280,7 @@ button {
 }
 
 button:hover {
-    background-color: #8cc099;
+    background-color: #e30edc;
 }
 
 .rightside1 {

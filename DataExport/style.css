@@ -8,7 +8,7 @@
     margin: auto;
 }
 .main h1 {
-    color: green;
+    color: rgb(255, 0, 238);
     text-align: center;
 }
 .main input {
@@ -21,13 +21,13 @@
     padding: 10px;
     padding-left: 15px;
     padding-right: 15px;
-    background-color: green;
+    background-color: rgb(255, 254, 217);
     border: none;
     border-radius: 6px;
     color: white;
 }
 .main button:hover {
-    background-color: rgb(2, 105, 2);
+    background-color: rgba(255, 230, 0, 0.399);
     cursor: pointer;
 }
 .main button:active {

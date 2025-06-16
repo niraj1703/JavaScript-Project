@@ -8,7 +8,7 @@ html {
 } 
 
 h2{ 
-	color: #2F8D46; 
+	color: #7e817f; 
 } 
 #form { 
 	text-align: center; 
@@ -52,7 +52,7 @@ h2{
 } 
 
 .form, .next-step { 
-	background: #2F8D46; 
+	background: #aaff00; 
 } 
 
 #form .previous-step:hover, 
@@ -62,11 +62,11 @@ h2{
 
 #form .next-step:hover, 
 #form .next-step:focus { 
-	background-color: #2F8D46
+	background-color: #aaff00
 } 
 
 .text { 
-	color: #2F8D46; 
+	color: #d0ff00; 
 	font-weight: normal
 } 
 
@@ -77,7 +77,7 @@ h2{
 } 
 
 #progressbar .active { 
-	color: #2F8D46
+	color: #84ff00
 } 
 
 #progressbar li { 
@@ -131,7 +131,7 @@ h2{
 
 #progressbar li.active:before, 
 #progressbar li.active:after { 
-	background: #2F8D46
+	background: #00fff2
 } 
 
 .progress { 
@@ -139,5 +139,5 @@ h2{
 } 
 
 .progress-bar { 
-	background-color: #2F8D46
+	background-color: #00ffb7
 }

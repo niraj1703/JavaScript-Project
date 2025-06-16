@@ -19,7 +19,7 @@ h1{
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 20px;
-    color: green;
+    color: rgb(157, 168, 157);
 }
 
 h3
@@ -40,18 +40,18 @@ h3
     font-size: 18px;
     text-align: right;
     font-weight: 700;
-    color: green;
+    color: rgb(117, 119, 117);
 }
 
 #question {
-    color: green;
+    color: rgb(139, 140, 139);
     font-weight: 700;
     font-size: 25px;
 }
 
 #inp {
-    color: green;
-    border: 3px solid green;
+    color: rgb(114, 115, 114);
+    border: 3px solid rgb(255, 238, 0);
     border-radius: 5px;
     padding: 15px 0;
     margin: 10px 0px;
@@ -65,11 +65,11 @@ h3
 }
 
 #inp::placeholder {
-    color: green;
+    color: rgb(137, 138, 137);
 }
 
 #btn {
-    background-color: green;
+    background-color: rgb(124, 125, 124);
     outline: none;
     border: none;
     border-radius: 5px;

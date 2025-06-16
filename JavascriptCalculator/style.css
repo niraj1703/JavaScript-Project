@@ -7,7 +7,7 @@ table {
 input[type="button"] { 
     width: 100%; 
     padding: 20px 40px; 
-    background-color: green; 
+    background-color: rgb(0, 255, 170); 
     color: white; 
     font-size: 24px; 
     font-weight: bold; 
